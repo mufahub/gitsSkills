@@ -1,1 +1,2 @@
-Creating a new branch is quick.	
+git is a free software.
+git has mutable index of files.`
