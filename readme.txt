@@ -1,1 +1,1 @@
-Creating is a new branch quick & simple.
+Creating is a new branch quick and simple.
