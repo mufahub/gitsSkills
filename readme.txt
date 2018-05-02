@@ -1,2 +1,1 @@
-git is a free software.
-git has mutable index of files.`
+Creating is a new branch quick & simple.
